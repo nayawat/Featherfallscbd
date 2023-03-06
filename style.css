@@ -25,6 +25,7 @@
     
     div {
     text-size: 10px;
+	    margin-left: 150px;
     }
     
     .footer {
@@ -35,7 +36,6 @@
    text-align: center;
    font-size: 8px;
    font-family: 'Raleway', sans-serif;
-	    margin-left: 200px;
    
 }
     
