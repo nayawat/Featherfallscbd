@@ -4,6 +4,7 @@
 	max-width: 100%;
 	height:auto;
 	padding-left: 70px;	
+		flex: center;
 	}
     .image2 {
     margin-bottom: 20px; 
