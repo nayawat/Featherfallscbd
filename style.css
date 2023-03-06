@@ -16,7 +16,7 @@
     font-size: 55px;
     color: black;
     text-align: center;
-    margin: 122px;
+    margin: 100px;
     }
     
     body {
@@ -30,7 +30,7 @@
     .footer {
    position: absolute;
    left: 44%;
-   bottom: -71%;
+   bottom: -31%;
    width: 14%;
    text-align: center;
    font-size: 8px;
