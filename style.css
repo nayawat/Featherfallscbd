@@ -1,10 +1,10 @@
 <style>
 	.image1 {
   	display: block;
-	max-width: 100%;
+	max-width: 50%;
 	height:auto;
 	padding-left: 70px;	
-		flex: center;
+		
 	}
     .image2 {
     margin-bottom: 20px; 
