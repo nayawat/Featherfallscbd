@@ -1,0 +1,41 @@
+<style>
+	.image1 {
+  	display: block;
+  	width: 70%;
+    margin-bottom: -17%;
+    margin-left: 25%;
+    margin-top: 25%;
+	}
+    .image2 {
+    margin-bottom:-10%;
+    margin-left: -1%;
+    }
+    
+    h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    color: black;
+    text-align: center;
+    margin: 122px;
+    }
+    
+    body {
+    background-color: white;
+    }
+    
+    div {
+    text-size: 10px;
+    }
+    
+    .footer {
+   position: absolute;
+   left: 44%;
+   bottom: -71%;
+   width: 14%;
+   text-align: center;
+   font-size: 8px;
+   font-family: 'Raleway', sans-serif;
+   
+}
+    
+</style>
