@@ -6,7 +6,7 @@
     margin-top: 10%;
 	}
     .image2 {
-    margin-bottom: 100px; 
+    margin-bottom: 20px; 
 	    width: 80px;
 	
     }
@@ -15,7 +15,7 @@
     font-family: 'Raleway', sans-serif;
     font-size: 55px;
     color: black;
-    margin: 90%;
+    margin: 40%;
     }
     
     body {
@@ -28,7 +28,6 @@
     
     .footer {
    position: absolute;
-   left: 20%;
    margin-bottom: 20px;
    width: 54%;
    text-align: center;
