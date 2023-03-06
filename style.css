@@ -24,15 +24,14 @@
     }
     
     div {
-    text-size: 10px;
-    text-align: center;   
-	    margin-right: 90px;
-    }
+	}
     
     .footer {
    position: absolute;
    margin: auto;
-   width: 70px;
+   width: 100px;
+   text-size: 10px;
+   margin-right: 90px;
    text-align: center;
    font-size: 8px;
    font-family: 'Raleway', sans-serif;
