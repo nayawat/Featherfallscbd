@@ -15,7 +15,8 @@
     font-family: 'Raleway', sans-serif;
     font-size: 55px;
     color: black;
-    margin-bottom: 55px;
+    margin-bottom: 95px;
+    text-align: center;
     }
     
     body {
@@ -28,8 +29,8 @@
     
     .footer {
    position: absolute;
-   margin-bottom: 20px;
-   width: 54%;
+   margin-bottom: 50px;
+   width: 54px;
    text-align: center;
    font-size: 8px;
    font-family: 'Raleway', sans-serif;
