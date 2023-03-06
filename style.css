@@ -29,7 +29,7 @@
     .footer {
    position: absolute;
    left: 20%;
-   margin-bottom: -10%;
+   margin-bottom: 20px;
    width: 54%;
    text-align: center;
    font-size: 8px;
