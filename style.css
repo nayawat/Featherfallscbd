@@ -1,9 +1,9 @@
 <style>
 	.image1 {
-  	display: block;
+  	display: center;
 	max-width: 50%;
 	height:auto;
-	padding-left: 70px;	
+	padding-left: -70px;	
 		
 	}
     .image2 {
