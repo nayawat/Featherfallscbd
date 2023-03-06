@@ -17,7 +17,7 @@
     font-size: 55px;
     color: black;
     text-align: center;
-    margin: 40%;
+    margin: 80%;
     }
     
     body {
@@ -31,7 +31,7 @@
     .footer {
    position: absolute;
    left: 20%;
-   bottom-margin: 10%;
+   margin-bottom: 10%;
    width: 54%;
    text-align: center;
    font-size: 8px;
