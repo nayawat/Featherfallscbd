@@ -8,7 +8,7 @@
 	}
     .image2 {
     margin-bottom: 1%;
-    margin-left: -1%; 
+    margin-left: 1%; 
 	    width: 10px;
 	
     }
@@ -33,7 +33,7 @@
    position: absolute;
    left: 44%;
    bottom: -12%;
-   width: 24%;
+   width: 34%;
    text-align: center;
    font-size: 8px;
    font-family: 'Raleway', sans-serif;
